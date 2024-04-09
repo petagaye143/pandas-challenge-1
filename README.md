@@ -1,1 +1,1 @@
-# pandas-challenge-1
+Manipulated dataset from a fictional e-commerce company, exploring and analyzing data to address real-world business questions. Output involved identifying top customers, popular product categories, calculating profits, and more. Work focused on data exploration, transformation, and analysis.# pandas-challenge-1
